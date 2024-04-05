@@ -1,0 +1,29 @@
+
+{
+	"Julie":{
+		"20231012":{
+			"bound": [10, 700],
+			"length10mmEdge": [275, 565],
+			"skin":{
+				"__comment__": "axis-0 of imagee is x for line.",
+				"x": 45
+			},
+			"fat":{
+				"__comment__": "axis-0 of imagee is x for line.",
+				"x":80
+			},
+			"IJVLarge":{
+				"cca":{
+					"__comment__":"[x, y, radius]",
+					"v": [500, 450, 100]
+				}
+			},
+			"IJVSmall":{
+				"cca":{
+					"__comment__":"[x, y, radius]",
+					"v": [500, 450, 100]
+				}
+			}
+		}
+	}
+}
